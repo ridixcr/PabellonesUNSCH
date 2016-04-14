@@ -1,0 +1,360 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "id": "marker-in09hm3o6",
+                "title": "PABELLON - E",
+                "description": "FACULTAD DE CIENCIAS DE LA EDUCACIÓN",
+                "marker-size": "large",
+                "marker-color": "#7ec9b1",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.218095, -13.148337],
+                "type": "Point"
+            },
+            "id": "0e6033db85f44bcffc3109045441f6a4"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - W",
+                "description": "FACULTAD DE CIENCIAS ECONOMICAS, ADMINISTRATIVAS Y CONTABLES",
+                "stroke": "#eaf7ca",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#eaf7ca",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.218116, -13.147254], [-74.218131, -13.147399], [-74.217805, -13.147432], [-74.217808, -13.147489], [-74.217406, -13.147538], [-74.217393, -13.147407], [-74.217772, -13.14736], [-74.217765, -13.147295], [-74.218116, -13.147254]]],
+                "type": "Polygon"
+            },
+            "id": "0e9e951fdd6c56832def14d3d407a274"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-ifa06dfr3",
+                "title": "PUERTA PRINCIPAL PAGPA",
+                "description": "PLATELES DE APLICACION  GUAMAN POMA DE AYALA",
+                "marker-size": "large",
+                "marker-color": "#1087bf",
+                "marker-symbol": "warehouse"
+            },
+            "geometry": {
+                "coordinates": [-74.218311, -13.150447],
+                "type": "Point"
+            },
+            "id": "1956fea8d03784bbb3f1b5c8e0cbdf88"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-in08hvx10",
+                "title": "PABELLON - U",
+                "description": "FACULTAD DE ENFERMERÍA Y MEDICINA HUMANA",
+                "marker-size": "large",
+                "marker-color": "#f5c272",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.219931, -13.148969],
+                "type": "Point"
+            },
+            "id": "1a962b439e229299213e44ad4baf9d8c"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - C",
+                "description": "FACULTAD DE CIENCIAS SOCIALES",
+                "stroke": "#fa946e",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#fa946e",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.222941, -13.146011], [-74.222903, -13.146057], [-74.222795, -13.145984], [-74.222785, -13.145997], [-74.222731, -13.145962], [-74.222832, -13.145828], [-74.222789, -13.145802], [-74.223085, -13.145393], [-74.223141, -13.145329], [-74.223125, -13.145303], [-74.223179, -13.145268], [-74.223246, -13.145258], [-74.223247, -13.14529], [-74.223273, -13.145297], [-74.223264, -13.14535], [-74.22328, -13.145353], [-74.223332, -13.145241], [-74.22337, -13.145263], [-74.223394, -13.145241], [-74.223453, -13.145288], [-74.223477, -13.145327], [-74.223492, -13.145397], [-74.223455, -13.14541], [-74.223456, -13.145458], [-74.223353, -13.14546], [-74.223348, -13.145477], [-74.223403, -13.14549], [-74.223394, -13.145512], [-74.223405, -13.145521], [-74.223383, -13.145559], [-74.223349, -13.145591], [-74.223308, -13.14561], [-74.223302, -13.145593], [-74.223268, -13.145604], [-74.223261, -13.14556], [-74.223219, -13.145559], [-74.223184, -13.145547], [-74.223152, -13.145519], [-74.223131, -13.145466], [-74.223113, -13.145493], [-74.223132, -13.145508], [-74.222891, -13.145843], [-74.222998, -13.145915], [-74.223074, -13.145807], [-74.223061, -13.145794], [-74.223066, -13.145767], [-74.223086, -13.145756], [-74.223106, -13.14576], [-74.223124, -13.145737], [-74.223109, -13.145713], [-74.223112, -13.145682], [-74.223126, -13.145656], [-74.223151, -13.145633], [-74.22318, -13.145625], [-74.223211, -13.145627], [-74.223243, -13.145649], [-74.223268, -13.145681], [-74.223264, -13.145726], [-74.223251, -13.145754], [-74.223226, -13.145769], [-74.223196, -13.145779], [-74.223205, -13.145785], [-74.22308, -13.145956], [-74.223059, -13.145941], [-74.222985, -13.146038], [-74.222941, -13.146011]]],
+                "type": "Polygon"
+            },
+            "id": "1d5cfa94a0f39b55223e2d72152a3fa9"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - H",
+                "description": "FACULTAD DE GEOLOGÍA MINAS Y CIVIL",
+                "stroke": "#f86767",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#f86767",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.222262, -13.147011], [-74.221884, -13.146742], [-74.220591, -13.146937], [-74.220613, -13.147085], [-74.221867, -13.146885], [-74.222082, -13.147041], [-74.221961, -13.147198], [-74.22207, -13.147279], [-74.222262, -13.147011]]],
+                "type": "Polygon"
+            },
+            "id": "2a3a227db4dd641e68d6e73ebdddc55b"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - U",
+                "description": "FACULTAD DE ENFERMERÍA Y MEDICINA HUMANA",
+                "stroke": "#f5c272",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#f5c272",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.220145, -13.148663], [-74.220164, -13.148891], [-74.219987, -13.148917], [-74.219925, -13.149006], [-74.219923, -13.149094], [-74.219569, -13.149149], [-74.21955, -13.149034], [-74.219864, -13.148977], [-74.21984, -13.148799], [-74.219727, -13.148802], [-74.219714, -13.14858], [-74.220073, -13.148548], [-74.220089, -13.148671], [-74.220145, -13.148663]]],
+                "type": "Polygon"
+            },
+            "id": "33c5982fcf0ee6af3ba8de00b92c807c"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-in08ifed1",
+                "title": "PABELLON - T",
+                "description": "FACULTAD DE OBSTETRICIA",
+                "marker-size": "large",
+                "marker-color": "#f1f075",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.219133, -13.149173],
+                "type": "Point"
+            },
+            "id": "4862edded2263841753af8e670a89df7"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-in08m4bg4",
+                "title": "PABELLON - AD",
+                "description": "FACULTAD DE MEDICINA VETERINARIA",
+                "marker-size": "large",
+                "marker-color": "#a3e46b",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.223788, -13.144717],
+                "type": "Point"
+            },
+            "id": "5d12395ccc335bddc2262853a769a798"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - D",
+                "description": "FACULTAD DE MEDICINA VETERINARIA",
+                "stroke": "#a3e46b",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#a3e46b",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.223872, -13.14445], [-74.223949, -13.144501], [-74.223934, -13.144527], [-74.223948, -13.144534], [-74.223964, -13.144511], [-74.224013, -13.144541], [-74.223992, -13.144573], [-74.224023, -13.144593], [-74.223785, -13.144939], [-74.223719, -13.144898], [-74.223682, -13.144951], [-74.2237, -13.144961], [-74.22372, -13.144939], [-74.22379, -13.144981], [-74.223754, -13.145033], [-74.223638, -13.144955], [-74.223619, -13.144982], [-74.223812, -13.145106], [-74.223832, -13.145077], [-74.223868, -13.145101], [-74.223831, -13.145163], [-74.223846, -13.14518], [-74.223807, -13.145238], [-74.223483, -13.145023], [-74.223528, -13.144956], [-74.223563, -13.144971], [-74.2236, -13.144919], [-74.22364, -13.14494], [-74.223684, -13.144883], [-74.223646, -13.144855], [-74.223663, -13.144825], [-74.223629, -13.144802], [-74.223872, -13.14445]]],
+                "type": "Polygon"
+            },
+            "id": "73039cfad4870898ff71b62b6ab82ccd"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON -  J",
+                "description": "INGENIERÍA AGRÍCOLA",
+                "stroke": "#9c89cc",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#9c89cc",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.220855, -13.148996], [-74.220784, -13.148946], [-74.220799, -13.148925], [-74.220765, -13.148893], [-74.220745, -13.14891], [-74.22069, -13.148874], [-74.220774, -13.148746], [-74.220699, -13.148696], [-74.220609, -13.148818], [-74.220479, -13.148733], [-74.220498, -13.148708], [-74.220463, -13.148682], [-74.220502, -13.148631], [-74.220603, -13.148691], [-74.220642, -13.148632], [-74.220461, -13.1485], [-74.220288, -13.148747], [-74.220792, -13.149085], [-74.220855, -13.148996]]],
+                "type": "Polygon"
+            },
+            "id": "74445722a3848f0603c742e64f87be27"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-in08lmem3",
+                "title": "PABELLON - C",
+                "description": "FACULTAD DE CIENCIAS SOCIALES",
+                "marker-size": "large",
+                "marker-color": "#fa946e",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.223074, -13.145652],
+                "type": "Point"
+            },
+            "id": "826671e0582f74194db408770c5eb82f"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-in08k3is2",
+                "title": "PABELLON - AB",
+                "description": "FACULTAD DE DERECHO Y CIENCIAS POLITICAS",
+                "marker-size": "large",
+                "marker-color": "#1087bf",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.220655, -13.147428],
+                "type": "Point"
+            },
+            "id": "832ed957e79d2417ccbb182e04a95b90"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-if9zq2fa1",
+                "title": "PUERTA N°1",
+                "description": "ENTRADA PRINCIPAL CIUDAD UNIVERSITARIA",
+                "marker-size": "large",
+                "marker-color": "#1087bf",
+                "marker-symbol": "warehouse"
+            },
+            "geometry": {
+                "coordinates": [-74.222699, -13.148859],
+                "type": "Point"
+            },
+            "id": "868263f2118be6f77158220e637aedea"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - AB",
+                "description": "FACULTAD DE DERECHO Y CIENCIAS POLITICAS",
+                "stroke": "#1087bf",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#1087bf",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.220756, -13.147608], [-74.220817, -13.147602], [-74.220811, -13.147553], [-74.220876, -13.147547], [-74.220839, -13.14734], [-74.220753, -13.147347], [-74.220749, -13.147307], [-74.220792, -13.147295], [-74.220785, -13.147236], [-74.220741, -13.147227], [-74.220489, -13.147259], [-74.220502, -13.147363], [-74.220436, -13.147371], [-74.220465, -13.147653], [-74.220485, -13.147654], [-74.220506, -13.147666], [-74.22053, -13.147674], [-74.220557, -13.147667], [-74.220577, -13.147651], [-74.220581, -13.147638], [-74.220601, -13.147637], [-74.220561, -13.147358], [-74.220719, -13.147337], [-74.220756, -13.147608]]],
+                "type": "Polygon"
+            },
+            "id": "8caf99e9a8af61a0188a4ea4dd20447e"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - R",
+                "description": "CENTRO PRE UNIVERSITARIO",
+                "stroke": "#1f1f1f",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#1f1f1f",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.224126, -13.14838], [-74.22445, -13.148607], [-74.224389, -13.148697], [-74.22406, -13.148471], [-74.224126, -13.14838]]],
+                "type": "Polygon"
+            },
+            "id": "8e01fa6904898652cb1197f68f67ebdf"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-ifa1jjfs6",
+                "title": "PABELLON -  J",
+                "description": "ESCUELA DE FORMACION PROFESIONAL DE INGENIERÍA AGRÍCOLA",
+                "marker-size": "large",
+                "marker-color": "#9c89cc",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.220601, -13.14887],
+                "type": "Point"
+            },
+            "id": "8e9f7c17cc88529dce33caf6a34bc5da"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-ifa11tnw4",
+                "title": "PABELLON - H",
+                "description": "FACULTAD DE GEOLOGÍA MINAS Y CIVIL",
+                "marker-size": "large",
+                "marker-color": "#f86767",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.22146, -13.146874],
+                "type": "Point"
+            },
+            "id": "a281057c32ecee53dff35344b9790f2b"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "ABELLON - T",
+                "description": "FACULTAD DE OBSTETRICIA",
+                "stroke": "#f1f075",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#f1f075",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.219337, -13.149017], [-74.219362, -13.149171], [-74.219215, -13.149203], [-74.219213, -13.14923], [-74.219027, -13.149263], [-74.219035, -13.149315], [-74.218972, -13.149323], [-74.218944, -13.149145], [-74.219272, -13.149097], [-74.219264, -13.149025], [-74.219337, -13.149017]]],
+                "type": "Polygon"
+            },
+            "id": "b321031a3196f2b074e77a96af7b4fa9"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-if9zuw932",
+                "title": "PUERTA N° 2",
+                "description": "ENTRADA SECUNDARIA CIUDAD UNIVERSITARIA",
+                "marker-size": "large",
+                "marker-color": "#1087bf",
+                "marker-symbol": "warehouse"
+            },
+            "geometry": {
+                "coordinates": [-74.220414, -13.150071],
+                "type": "Point"
+            },
+            "id": "df4e321f3e0ef203d69b8e6eaf91c9a1"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-in08n1yb5",
+                "title": "PABELLON -  R",
+                "description": "CENTRO PRE UNIVERSITARIO",
+                "marker-size": "large",
+                "marker-color": "#1f1f1f",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.224261, -13.148544],
+                "type": "Point"
+            },
+            "id": "ef9817a66706eb9848fcfd3ad4e698dc"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "PABELLON - E",
+                "description": "FACULTAD DE CIENCIAS DE LA EDUCACIÓN",
+                "stroke": "#7ec9b1",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "fill": "#7ec9b1",
+                "fill-opacity": 0.20000000298023224
+            },
+            "geometry": {
+                "coordinates": [[[-74.218316, -13.148496], [-74.21809, -13.148532], [-74.218104, -13.148668], [-74.217761, -13.148707], [-74.217748, -13.148592], [-74.217772, -13.148494], [-74.217737, -13.148227], [-74.217807, -13.14822], [-74.217815, -13.148271], [-74.217835, -13.14827], [-74.217861, -13.148481], [-74.217946, -13.148385], [-74.217906, -13.148097], [-74.217924, -13.148094], [-74.217919, -13.14805], [-74.218006, -13.14804], [-74.218098, -13.148028], [-74.218122, -13.147981], [-74.218198, -13.147957], [-74.218252, -13.147986], [-74.218269, -13.148022], [-74.218268, -13.148074], [-74.218236, -13.148112], [-74.218248, -13.148193], [-74.218275, -13.148192], [-74.218316, -13.148496]]],
+                "type": "Polygon"
+            },
+            "id": "f3686901633be86fb4c371a0e5c63822"
+        }, {
+            "type": "Feature",
+            "properties": {
+                "id": "marker-ifa1h6jv5",
+                "title": "PABELLON - W",
+                "description": "FACULTAD DE CIENCIAS ECONOMICAS, ADMINISTRATIVAS Y CONTABLES",
+                "marker-size": "large",
+                "marker-color": "#eaf7ca",
+                "marker-symbol": "city"
+            },
+            "geometry": {
+                "coordinates": [-74.217807, -13.147386],
+                "type": "Point"
+            },
+            "id": "f61e055eed0ba74cdaed0c0b616931d9"
+        }],
+    "id": "ridixcr.njkiadh3"
+}

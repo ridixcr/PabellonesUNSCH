@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>UNSCH</title>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <script src='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.js'></script>
+        <link href='https://api.mapbox.com/mapbox.js/v2.2.3/mapbox.css' rel='stylesheet'/>
+        <script src='https://api.mapbox.com/mapbox.js/plugins/mapbox-directions.js/v0.4.0/mapbox.directions.js'></script>
+        <link rel='stylesheet' href='https://api.mapbox.com/mapbox.js/plugins/mapbox-directions.js/v0.4.0/mapbox.directions.css' type='text/css' />
+        
+        
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="row">
+                <div id="map" class="col-md-12"></div> 		 		
+            </div>
+            <nav id='menu-ui' class='menu-ui'>
+                <a href='#' class='active' id='filter-all'>TODOS LOS PABELLONES</a>
+                <a href='#' id='filter-ab'>PABELLÓN - AB</a>
+                <a href='#' id='filter-c'>PABELLÓN - C</a>
+                <a href='#' id='filter-ad'>PABELLÓN - AD</a>
+                <a href='#' id='filter-e'>PABELLÓN - E</a>
+                <a href='#' id='filter-h'>PABELLÓN - H</a>
+                <a href='#' id='filter-j'>PABELLÓN - J</a>
+                <a href='#' id='filter-r'>PABELLÓN - R</a>
+                <a href='#' id='filter-u'>PABELLÓN - U</a>
+                <a href='#' id='filter-t'>PABELLÓN - T</a>                
+                <a href='#' id='filter-p'>PABELLÓN - P</a>                
+                <a href='#' id='filter-w'>PABELLÓN - W</a>                
+                <a href='#' id='filter-nothing'>NINGUNO</a>
+            </nav>
+            <!--<div id='inputs'></div>-->
+            <div id='errors'></div>
+            <div id="directions">
+                <div id='routes'></div>
+                <div id='instructions'></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="js/script.js"></script>
+    </body>
+</html>
