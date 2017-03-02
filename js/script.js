@@ -152,10 +152,16 @@ h.onclick = function (ex) {
     w.className = '';
     p.className = '';
     this.className = 'active';
-    map.featureLayer.setFilter(function (f) {
-        return f.properties['title'] === 'PABELLON - H'
+    map.featureLayer.setFilter(function (f) {        
+        var c = (f.properties['title'] === 'PABELLON - H'
                 || f.properties['marker-symbol'] === 'warehouse'
-                || f.properties['title'] === 'PERIMETRO';
+                || f.properties['title'] === 'PERIMETRO');
+            if(c){
+                f.properties['description']="FACULTAD DE MINAS, GEOLOGÍA Y CIVIL";
+                f.properties['title']="PABELLÓN - H";
+            }
+        
+        return c;
     });
     return false;
 };
