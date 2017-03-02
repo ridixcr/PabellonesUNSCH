@@ -18,7 +18,11 @@ L.RotatedMarker = L.Marker.extend({
     }
 });*/
 
-var map = L.mapbox.map('map', 'ridixcr.njkiadh3');
+//var map = L.mapbox.map('map', 'ridixcr.njkiadh3');
+var map = L.mapbox.map('map',{
+	center: [-13.14629, -74.22053],
+	zoom: 17
+});
 /*
 var marker = L.rotatedMarker(new L.LatLng(-74.2204, -13.1436), {
     icon: L.icon({
