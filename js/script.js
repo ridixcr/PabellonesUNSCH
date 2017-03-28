@@ -18,12 +18,12 @@ L.RotatedMarker = L.Marker.extend({
     }
 });*/
 
-//var map = L.mapbox.map('map', 'ridixcr.njkiadh3');
-var map = L.mapbox.map({container: 'map',
+var map = L.mapbox.map('map', 'ridixcr.njkiadh3');
+/*var map = L.mapbox.map({container: 'map',
     	style: 'mapbox://styles/mapbox/basic-v9',
 	center: [-13.14629, -74.22053],
 	zoom: 17
-});
+});*/
 /*
 var marker = L.rotatedMarker(new L.LatLng(-74.2204, -13.1436), {
     icon: L.icon({
